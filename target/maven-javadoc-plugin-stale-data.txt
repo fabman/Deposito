@@ -1,0 +1,45 @@
+@options
+@packages
+-encoding
+'UTF-8'
+-protected
+-source
+'19'
+-sourcepath
+'C:/Users/fabman/Documents/NetBeansProjects/Deposito/src/main/java'
+-author
+-bottom
+'Copyright &#169; 2024. All rights reserved.'
+-charset
+'UTF-8'
+-d
+'C:/Users/fabman/Documents/NetBeansProjects/Deposito/target/site/apidocs'
+-docencoding
+'UTF-8'
+-doctitle
+'Deposito 1.0-SNAPSHOT API'
+-use
+-version
+-windowtitle
+'Deposito 1.0-SNAPSHOT API'
+cc.fabian.cuentas
+C:\Users\fabman\Documents\NetBeansProjects\Deposito\src\main\java = 1709288707862
+C:\Users\fabman\Documents\NetBeansProjects\Deposito\target\site\apidocs\allclasses-index.html = 1709292619561
+C:\Users\fabman\Documents\NetBeansProjects\Deposito\target\site\apidocs\allpackages-index.html = 1709292619564
+C:\Users\fabman\Documents\NetBeansProjects\Deposito\target\site\apidocs\copy.svg = 1709292619593
+C:\Users\fabman\Documents\NetBeansProjects\Deposito\target\site\apidocs\element-list = 1709292619508
+C:\Users\fabman\Documents\NetBeansProjects\Deposito\target\site\apidocs\help-doc.html = 1709292619587
+C:\Users\fabman\Documents\NetBeansProjects\Deposito\target\site\apidocs\index-all.html = 1709292619578
+C:\Users\fabman\Documents\NetBeansProjects\Deposito\target\site\apidocs\index.html = 1709292619582
+C:\Users\fabman\Documents\NetBeansProjects\Deposito\target\site\apidocs\jquery-ui.overrides.css = 1709292619606
+C:\Users\fabman\Documents\NetBeansProjects\Deposito\target\site\apidocs\member-search-index.js = 1709292619567
+C:\Users\fabman\Documents\NetBeansProjects\Deposito\target\site\apidocs\module-search-index.js = 1709292619565
+C:\Users\fabman\Documents\NetBeansProjects\Deposito\target\site\apidocs\overview-tree.html = 1709292619549
+C:\Users\fabman\Documents\NetBeansProjects\Deposito\target\site\apidocs\package-search-index.js = 1709292619565
+C:\Users\fabman\Documents\NetBeansProjects\Deposito\target\site\apidocs\script.js = 1709292619592
+C:\Users\fabman\Documents\NetBeansProjects\Deposito\target\site\apidocs\search-page.js = 1709292619598
+C:\Users\fabman\Documents\NetBeansProjects\Deposito\target\site\apidocs\search.html = 1709292619581
+C:\Users\fabman\Documents\NetBeansProjects\Deposito\target\site\apidocs\search.js = 1709292619596
+C:\Users\fabman\Documents\NetBeansProjects\Deposito\target\site\apidocs\stylesheet.css = 1709292619590
+C:\Users\fabman\Documents\NetBeansProjects\Deposito\target\site\apidocs\tag-search-index.js = 1709292619568
+C:\Users\fabman\Documents\NetBeansProjects\Deposito\target\site\apidocs\type-search-index.js = 1709292619566

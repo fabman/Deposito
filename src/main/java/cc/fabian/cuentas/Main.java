@@ -1,16 +1,25 @@
 /*
- * Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
+ * Clase principal de entrada a gestión de depositos
  */
 
 package cc.fabian.cuentas;
 
 /**
+ * Entrada principal a la aplicacion
  *
- * @author Fabián Méndez <fabian.mendez@gmail.com>
+ * @author Fabián Méndez
+ * 
  */
 public class Main {
 
+    /**
+     * 
+     * Método de entrada principal de la aplicación
+     *
+     * @param args  No recibe ningún parametro
+     */
     public static void main(String[] args) {
+        
         CCuenta cuenta1;
         double saldoActual;
 
@@ -18,6 +27,13 @@ public class Main {
         operativa_cuenta(cuenta1);
     }
 
+    /**
+     * 
+     * Gestiona la operativa de la cuenta
+     *
+     * @param cuenta1   Gestiona los ingresos y retiradas de dinero de la cuenta
+     * @param cantidad  La cantidad de dinero con la que se quiere trabajar
+     */
     public static void operativa_cuenta( CCuenta cuenta1, Float... cantidad ) {
         double saldoActual;
         saldoActual = cuenta1.estado();
